@@ -11,6 +11,7 @@ __rvm_detect_system_from_lsb_release()
     linuxmint*)     _system_name="Mint";;
     manjarolinux*)  _system_name="Manjaro";;
     neon*)          _system_name="Ubuntu";;
+    pop*)           _system_name="Ubuntu";;
     solus*)         _system_name="Solus";;
     trisquel*)      _system_name="Trisquel";;
     ubuntu*)        _system_name="Ubuntu";;
